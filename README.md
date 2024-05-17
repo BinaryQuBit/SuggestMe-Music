@@ -3,7 +3,7 @@
 </div>
 
 <br>
-
+<br>
 
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/demo.svg" style="width: 100%"></a>
@@ -13,6 +13,7 @@
     <a href="#"><img src="./readmeSetup/videoGIFS/suggestMeMusic.gif" style="width: 100%">Final Product</a>
 </div>
 
+<br>
 <br> 
 
 <div style="width: 100%;">
@@ -38,6 +39,18 @@
 <p>
     This project addresses a common frustration with popular music apps like Spotify, where algorithms often jump between different genres. By solving this problem, our platform offers a valuable alternative for music lovers seeking a more consistent and satisfying listening experience. This solution has the potential to attract a large user base and create significant business opportunities by meeting the needs of many music enthusiasts.
 </p>
+
+<br>
+
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/contributors.svg" style="width: 100%"></a>
+</div>
+
+- <a href = "https://github.com/BinaryQuBit">Amandip Padda</a>
+
+- <a href = "https://github.com/KeshiroM">Keshiro Abiola Mubarak</a>
+
+- <a href = "https://github.com/SWARNIMKUMAR">Swarnim Kumar</a>
 
 <br>
 
