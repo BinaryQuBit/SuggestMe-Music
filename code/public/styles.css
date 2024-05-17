@@ -1,0 +1,27 @@
+.App{
+    padding: 10%;
+}
+
+.card{
+    background-color: darkgray;
+}
+
+.display{
+    display: inline-flex;
+    text-align: center;
+
+}
+
+.like{
+    padding-right: 1em;
+    cursor: pointer;
+}
+
+.dislike{
+    padding-left: 1em;
+    cursor: pointer;
+}
+
+#liked{
+    text-align: none;
+}
