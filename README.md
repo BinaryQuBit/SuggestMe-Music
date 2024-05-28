@@ -9,6 +9,8 @@
   <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/demo.svg" style="width: 100%"></a>
 </div>
 
+<br>
+
 <div align="center" style="width: 100%;">
     <a href="https://suggestmemusic.csproject.org"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/suggestMeMusic.gif?raw=true" style="width: 100%">Final Product</a>
 </div>
@@ -101,6 +103,8 @@
 - Real-Time Processing
 - Diverse Music Preferences
 
+<br>
+
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/techStack.svg" style="width: 100%"></a>
 </div>
@@ -158,6 +162,8 @@
 
 </div>
 
+<br>
+
 <div style="width: 100%;">
   <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/626da83e39e3bc3f0359d0fb63a73a934c32f932/headers/result.svg" style="width: 100%"></a>
 </div>
@@ -214,16 +220,3 @@
 [<img src="https://github.com/SWARNIMKUMAR.png" width="80px;" /><br /><sub><a href="https://github.com/SWARNIMKUMAR">Swarnim Kumar</a></sub>](https://github.com/SWARNIMKUMAR)
   
 </div>
-
-
-<div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/contributors.svg" style="width: 100%"></a>
-</div>
-
-- <a href = "https://github.com/BinaryQuBit">Amandip Padda</a>
-
-- <a href = "https://github.com/KeshiroM">Keshiro Abiola Mubarak</a>
-
-- <a href = "https://github.com/SWARNIMKUMAR">Swarnim Kumar</a>
-
-<br>
