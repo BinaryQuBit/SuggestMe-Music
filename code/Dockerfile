@@ -8,8 +8,10 @@ RUN npm install
 
 COPY . .
 
+RUN npm run build
+
+RUN npm install -g serve
+
 EXPOSE 91
 
-ENV NODE_ENV production
-
-CMD ["npm", "start"] 
+CMD ["serve", "-s", "build", "-l", "91"]
